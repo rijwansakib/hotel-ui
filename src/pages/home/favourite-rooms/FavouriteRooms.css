@@ -1,0 +1,23 @@
+.favourite__room__container{
+    width: 100%;
+}
+.favourite__room__container img{
+    transition: .5s ease;
+    width: 100%;
+}
+
+.favourite__room__container img:hover .about__room{
+    opacity: 0.8;
+}
+.slider__item{
+    position: relative;
+}
+.slick-arrow{
+    display: none !important;
+}
+
+@media only screen and (max-width: 500px) {
+    .favourite__room__container .about__room{
+        opacity: 0.8;
+    }
+}

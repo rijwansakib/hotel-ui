@@ -1,0 +1,14 @@
+.special__staff__container{
+    width: 80%;
+    margin: 0 auto;
+}
+.staffs{
+    width: 100%;
+}
+.staff{
+    padding: 10;
+}
+.staffs img{
+    padding: 0;
+    width: 100%;
+}
